@@ -1,0 +1,5 @@
+TransUnion TruValidate Device Risk SDK for iOS (formerly FraudForce)
+
+Copyright (c) 2010-2021 iovation, Inc. All rights reserved.
+
+Commercial license. Please refer to your agreement with iovation/TransUnion or contact support@iovation.com for more information.
